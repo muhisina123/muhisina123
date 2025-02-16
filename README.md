@@ -6,7 +6,7 @@
 🔹 Experienced with **SEO optimization, Firebase, and Web Performance** 
 
 ## 📫 Contact Me:  
-💼 [LinkedIn](www.linkedin.com/in/muhisina-nilofur)  
+💼 [LinkedIn]www.linkedin.com/in/muhisina-nilofur
 🐙 [GitHub](https://github.com/muhisina123)  
 📧 muhisinanilofur@gmail.com
 
@@ -19,4 +19,14 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+
+
+### 📊 GitHub Stats  
+![Muhisina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhisina123&show_icons=true&theme=radical)  
+
+### 🔥 GitHub Streak  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhisina123&theme=dark)  
+
+### 💻 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhisina123&layout=compact&theme=radical)  
 
